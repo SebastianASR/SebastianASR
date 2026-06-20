@@ -1,6 +1,6 @@
-# ¡Hola! Soy Sebastián Sandoval 👋
+# Hola! Soy Sebastián Sandoval
 
-Soy estudiante de Ingeniería en Informática cursando mi último semestre, en búsqueda activa de mi práctica profesional. Me oriento principalmente hacia el desarrollo **Backend y Full-Stack**, buscando siempre crear código estructurado y eficiente.
+Actualmente estudiante de Ingeniería en Informática cursando mi último semestre, en búsqueda activa de mi práctica profesional. Me oriento principalmente hacia el desarrollo **Backend y Full-Stack**, buscando siempre crear código estructurado y eficiente.
 
 ### 🌱 Mi Enfoque Actual
 
@@ -14,7 +14,7 @@ Actualmente estoy en una fase de construcción y aprendizaje continuo:
 
 *   **Frontend:** HTML5, CSS3, JavaScript
 *   **Backend:** Python, Java, C#, Node.js, Express
-*   **Bases de Datos:** MySQL, SQL Server, Firebase
+*   **Bases de Datos:** MySQL, SQL Server, PostgreSQL
 *   **Infraestructura & Entornos:** Linux (Ubuntu, Kali Linux), Windows, Máquinas Virtuales (VirtualBox), Administración de Servidores
 *   **Herramientas:** Git, GitHub, VS Code, Visual Studio
   
