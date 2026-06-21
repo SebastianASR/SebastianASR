@@ -78,7 +78,7 @@ Herramientas: Git, GitHub, Visual Studio, Visual Studio Code y Entity Framework 
 - Infraestructura y despliegue cloud
 - Administración de servidores
 - Automatización y optimización de sistemas
-- 
+
 📌 Actualmente
 Mejorando mi portafolio con proyectos reales y desplegados.
 Profundizando en arquitectura backend, seguridad y buenas prácticas.
