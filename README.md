@@ -4,7 +4,7 @@
 
 # Hola, soy Sebastián Sandoval 👋
 
-### Ingeniero en Informática en formación | Dev Full-Stack | Backend | Cloud | Seguridad
+### Ingeniero Informático en formación | Dev Full-Stack | Backend | Cloud | Seguridad
 
 **Building software. Creating solutions.**
 
