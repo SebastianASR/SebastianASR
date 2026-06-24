@@ -133,6 +133,7 @@ Comprensión del rendimiento desde el hardware, sistema operativo, entorno de ej
 
 ## Backend
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
@@ -196,8 +197,8 @@ Comprensión del rendimiento desde el hardware, sistema operativo, entorno de ej
 
 # 📫 Contacto
 
-* GitHub: https://github.com/SebastianASR
-* LinkedIn: [https://www.linkedin.com/in/sebastian-andre-sandoval-romero-115710296/](https://www.linkedin.com/in/sebasti%C3%A1n-andr%C3%A9-sandoval-romero-115710296/)
+* [GitHub](https://github.com/SebastianASR)
+* [LinkedIn](https://www.linkedin.com/in/sebastian-andre-sandoval-romero-115710296/)
 * Email: [sandoval.romero.sebastian@gmail.com](mailto:sandoval.romero.sebastian@gmail.com)
 * Ubicación: Santiago, Chile
 
@@ -210,6 +211,3 @@ Comprensión del rendimiento desde el hardware, sistema operativo, entorno de ej
 **Building software. Creating solutions.**
 
 </div>
-
-
-*"Construyendo soluciones eficientes y entendiendo la tecnología desde la infraestructura hasta el código."*
