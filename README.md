@@ -197,7 +197,6 @@ Comprensión del rendimiento desde el hardware, sistema operativo, entorno de ej
 
 # 📫 Contacto
 
-* [GitHub](https://github.com/SebastianASR)
 * [LinkedIn](https://www.linkedin.com/in/sebastian-andre-sandoval-romero-115710296/)
 * Email: [sandoval.romero.sebastian@gmail.com](mailto:sandoval.romero.sebastian@gmail.com)
 * Ubicación: Santiago, Chile
