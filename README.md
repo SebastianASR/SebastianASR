@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/b8984f9d-b4dc-4920-b1d9-de6229a4f155" alt="Z Labs Logo" width="360"/>
+<img src="https://github.com/user-attachments/assets/b8984f9d-b4dc-4920-b1d9-de6229a4f155" alt="Z Labs Logo" width="460"/>
 
 # Hola, soy Sebastián Sandoval 👋
 
