@@ -30,8 +30,6 @@ Bajo esta identidad agrupo mis proyectos personales y de portafolio:
 
 * 🛒 **Z-Commerce** — Plataforma E-Commerce Full Stack
 * 🎫 **Z-Entik** — Sistema HelpDesk TI / Gestión de Tickets
-* 🔐 **Z-Auth** — Próximo proyecto de autenticación / seguridad
-* 📦 **Z-Inventory** — Próximo sistema de inventario
 
 ---
 
