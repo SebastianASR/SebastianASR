@@ -67,14 +67,14 @@ Este proyecto representa mi avance desde un CRUD tradicional hacia una aplicaci�
 
 ---
 
-# -> Proyecto en desarrollo: Z-Entik
+# -> Z-Entik
 
-Actualmente estoy desarrollando **Z-Entik**, un sistema HelpDesk TI para gestión de tickets, usuarios, roles, técnicos, estados, prioridades y comentarios.
+ **Z-Entik**, un sistema HelpDesk TI para gestión de tickets, usuarios, roles, técnicos, estados, prioridades y comentarios.
 
 📦 **Repositorio:**
 https://github.com/SebastianASR/Z-Entik
 
-## Stack planificado
+## Stack 
 
 * React + TypeScript
 * Vite
@@ -180,7 +180,7 @@ Comprensión del rendimiento desde el hardware, sistema operativo, entorno de ej
 
 ---
 
-# 📚 Actualmente aprendiendo
+# 📚 Actualmente reforzando
 
 * React + TypeScript
 * NestJS
