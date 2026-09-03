@@ -14,7 +14,7 @@
 
 ## Sobre mí
 
-Soy estudiante de **Ingeniería en Informática**, actualmente cursando mi último semestre y en búsqueda activa de mi **práctica profesional**.
+Soy estudiante de **Ingeniería en Informática**, actualmente cursando mi último semestre en mi **práctica profesional**.
 
 Me oriento principalmente hacia el desarrollo **Backend** y **Full-Stack**, con interés en construir aplicaciones web funcionales, seguras, bien estructuradas y conectadas a bases de datos reales.
 
