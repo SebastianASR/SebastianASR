@@ -185,12 +185,7 @@ Comprensión del rendimiento desde el hardware, sistema operativo, entorno de ej
 * React + TypeScript
 * NestJS
 * Prisma ORM
-* Arquitectura API REST
-* JWT + 2FA
-* Docker aplicado a proyectos Full Stack
-* GitHub Actions / CI-CD
 * Buenas prácticas de seguridad en aplicaciones web
-* Preparación para práctica profesional en desarrollo Backend / Full-Stack
 
 ---
 
