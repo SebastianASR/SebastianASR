@@ -69,7 +69,7 @@ Sistema de tickets para centralizar solicitudes de soporte, usuarios, técnicos,
 
 **Aspectos técnicos:** autenticación JWT, hashing seguro de contraseñas, recuperación de acceso y 2FA por correo, integración con Brevo API y tecnologías cloud y CI/CD como Docker, Render, Neon y GitHub Actions.
 
-📦 **[Repositorio](https://github.com/SebastianASR/Z-Entik)**
+🌐 **[Ver demo](https://z-entik-web.onrender.com/)** · 📦 **[Repositorio](https://github.com/SebastianASR/Z-Entik)**
 
 ### 🚇 Red Metro Guía · Visualización de rutas
 
@@ -133,9 +133,9 @@ Aplicación web para orientar rutas y combinaciones del Metro de Santiago, con c
 ## 📫 Contacto
 
 📍 Santiago, Chile  
-💼 [LinkedIn](https://www.linkedin.com/in/sebastian-andre-sandoval-romero-115710296/)  
+💼 [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-andr%C3%A9-sandoval-romero-115710296/)  
 📧 [sandoval.romero.sebastian@gmail.com](mailto:sandoval.romero.sebastian@gmail.com)  
-💻 [GitHub](https://github.com/SebastianASR)
+
 
 <div align="center">
 
