@@ -7,7 +7,7 @@
 
   **Building software. Creating solutions.**
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-andre-sandoval-romero-115710296/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebasti%C3%A1n-andr%C3%A9-sandoval-romero-115710296/)
   [![GitHub](https://img.shields.io/badge/GitHub-SebastianASR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SebastianASR)
   [![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandoval.romero.sebastian@gmail.com)
 </div>
